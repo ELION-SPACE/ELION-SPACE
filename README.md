@@ -40,7 +40,7 @@ https://github.com/SPACE-ALEPH/autonomy-notes
 ## Portfolio & Documents
 - Website: https://space-aleph.github.io
 - Phase 0 Technical Overview (PDF):  
-  https://space-aleph.github.io/Aleph-Systems_Phase-0_Technical_Overview.pdf
+  א - SYSTEMS_Phase-0_Technical_Overview.pdf
 
 ---
 
