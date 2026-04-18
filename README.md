@@ -20,7 +20,7 @@ Early Python prototype for mission-state evaluation, action gating, and explaina
 Phase 0 research archive covering system architecture, autonomy boundaries, terminology, and non-claims.
 
 ### Public Website
-Current landing page and technical overview materials for the present research phase.
+Current landing page and technical overview materials for the present research phase. The current public URL remains transitional.
 
 ## Current Maturity
 
@@ -46,7 +46,8 @@ It should not be read as a fully formed private space company yet. The value at 
 
 ## Public References
 
-- Website: https://space-aleph.github.io
+- Canonical overview repo: https://github.com/ELION-SPACE/ELION-SPACE
+- Website (current transitional URL): https://space-aleph.github.io
 - Technical overview (PDF): https://github.com/ELION-SPACE/space-aleph.github.io/blob/main/%D7%90%20-%20SYSTEMS_Phase-0_Technical_Overview.pdf
 - GitHub organization: https://github.com/ELION-SPACE
 
