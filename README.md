@@ -1,49 +1,55 @@
-# René Grempel
-Python Developer - Systems & Simulation - Research-oriented
+# ELION-SPACE
 
-I am a Python developer and technical specialist focused on
-automation, system-level thinking, and research-oriented software.
+Software-first research and systems development for future space platforms.
 
-My work combines software development, simulation, and technical
-documentation. I am particularly interested in space exploration,
-scientific computing, and quantum-related technologies.
+`ELION-SPACE` is the space-focused branch of the wider Elion ecosystem. The current public work is early-stage and centered on mission software, autonomy concepts, and simulation-first technical groundwork.
 
----
+This organization is not presented as a launch provider, spacecraft manufacturer, or flight-ready operator. The current scope is narrower and more credible:
 
-## Core Skills
-- Python (NumPy, scientific computing)
-- Software architecture & documentation
-- System modeling and simulation
-- Git, GitHub
-- Research and technical writing
+- mission autonomy research
+- software-first space-system architecture
+- simulation support for early mission concepts
+- bounded decision logic for fragile or high-value payloads
 
----
+## Current Public Repositories
 
-## Selected Projects
+### `mission-sim`
+Early Python prototype for mission-state evaluation, action gating, and explainable autonomy decisions in a simulation-only setting.
 
-### Mission-Sim - Orbital Simulation (Python)
-Lightweight orbital mechanics simulation with a focus on clarity
-and extensibility.
+### `autonomy-notes`
+Phase 0 research archive covering system architecture, autonomy boundaries, terminology, and non-claims.
 
-https://github.com/SPACE-ALEPH/mission-sim
+### Public Website
+Current landing page and technical overview materials for the present research phase.
 
----
+## Current Maturity
 
-### Autonomy Notes - System Architecture & Autonomy
-Technical notes on autonomous systems, decision flows, and
-system-level architecture.
+This is an early research-stage effort.
 
-https://github.com/SPACE-ALEPH/autonomy-notes
+What exists today:
+- conceptual and architectural groundwork
+- a small autonomy prototype
+- simulation-oriented technical framing
+- public documentation of scope and boundaries
 
----
+What does not exist yet:
+- flight-qualified software
+- hardware validation
+- operational spacecraft systems
+- mature mission operations infrastructure
 
-## Portfolio & Documents
+## Positioning
+
+`ELION-SPACE` is best understood today as a software-first space systems initiative with an emphasis on autonomy, mission logic, and simulation-grounded early research.
+
+It should not be read as a fully formed private space company yet. The value at this stage is technical direction, discipline of scope, and the ability to grow into more serious infrastructure over time.
+
+## Public References
+
 - Website: https://space-aleph.github.io
-- Phase 0 Technical Overview (PDF):  
-- https://github.com/SPACE-ALEPH/space-aleph.github.io/blob/main/%D7%90%20-%20SYSTEMS_Phase-0_Technical_Overview.pdf
-
-
----
+- Technical overview (PDF): https://github.com/ELION-SPACE/space-aleph.github.io/blob/main/%D7%90%20-%20SYSTEMS_Phase-0_Technical_Overview.pdf
+- GitHub organization: https://github.com/ELION-SPACE
 
 ## Contact
-- Email: grempelrene@gmail.com
+
+- corporate@elion.com
