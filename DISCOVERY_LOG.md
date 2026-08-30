@@ -20,6 +20,7 @@ This is a hypothesis, not a validated product requirement.
 |---|---|---|---|---|---|
 | 001 | 2026-08-30 | Space incubator | Application-readiness orientation | Sent | 2026-09-07 |
 | 002 | 2026-08-30 | Mission-planning expert/operator | Problem-discovery interview | Sent | 2026-09-07 |
+| 003 | 2026-08-30 | Quantum-communications CubeSat operator | QUBE mission-operations interview | Sent | 2026-09-07 |
 
 ## What Counts as Evidence
 
