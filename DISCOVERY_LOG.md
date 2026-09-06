@@ -1,6 +1,13 @@
 # ELION-SPACE Problem Discovery Log
 
-Last updated: 2026-08-30
+Evidence last recorded: 2026-08-30
+
+Documentation clarification: 2026-09-06. This is the canonical dated outreach
+status and build gate, shared with the [interview protocol](https://github.com/ELION-SPACE/autonomy-notes/blob/main/validation/interview-protocol.md).
+The original dated rows below are preserved. They record three outreach items,
+including two interview requests and one orientation request. This repair adds
+no messages, responses, interviews or outcomes. Send dates and delivery have not
+been independently verified from message records; no later outcomes are supplied.
 
 ## Current Gate
 
@@ -50,7 +57,9 @@ Encouragement, introductions and general advice are not customer validation.
 
 Do not add new `mission-sim` features until:
 
-- Five interviews are completed.
+- Five qualified interviews are completed.
 - At least three participants are actual users or operators.
-- The same problem appears independently in three interviews.
+- The same recurring problem appears independently in three interviews, using concrete past examples.
+- Evidence demonstrates measurable burden, operational consequence or dissatisfaction with the current workflow.
 - One qualified person agrees to review a narrowly scoped demonstration.
+- The demonstration’s user, operational scenario, inputs, outputs and evaluation metric can be stated precisely.
